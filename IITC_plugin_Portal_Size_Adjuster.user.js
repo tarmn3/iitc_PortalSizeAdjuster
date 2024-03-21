@@ -2,10 +2,10 @@
 // @id             iitc-plugin-portal-size-adjuster@sample
 // @name           IITC plugin: Portal Size Adjuster
 // @category       Layer
-// @version        0.2
+// @version        0.2.1
 // @description    Allows users to adjust the portal marker size on the map for better visibility. Initializes with the default size.
-// @updateURL      <update_url_here>
-// @downloadURL    <download_url_here>
+// @updateURL      https://github.com/tarmn3/iitc_PortalSizeAdjuster/raw/main/IITC_plugin_Portal_Size_Adjuster.user.js
+// @downloadURL    https://github.com/tarmn3/iitc_PortalSizeAdjuster/raw/main/IITC_plugin_Portal_Size_Adjuster.user.js
 // @include        /^https://.*\.ingress\.com\/intel.*/
 // @match          *://*/*
 // @grant          none
